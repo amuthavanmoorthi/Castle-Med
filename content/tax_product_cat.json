@@ -1,0 +1,331 @@
+[
+  {
+    "id": 168,
+    "count": 12,
+    "description": "",
+    "link": "https://castlespalv.com/product-category/body/",
+    "name": "Body",
+    "slug": "body",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat/168",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_cat=168"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 169,
+    "count": 15,
+    "description": "",
+    "link": "https://castlespalv.com/product-category/fragrance/",
+    "name": "Fragrance",
+    "slug": "fragrance",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat/169",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_cat=169"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 170,
+    "count": 17,
+    "description": "",
+    "link": "https://castlespalv.com/product-category/hair/",
+    "name": "Hair",
+    "slug": "hair",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat/170",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_cat=170"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 171,
+    "count": 11,
+    "description": "",
+    "link": "https://castlespalv.com/product-category/makeup/",
+    "name": "Makeup",
+    "slug": "makeup",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat/171",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_cat=171"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "count": 6,
+    "description": "",
+    "link": "https://castlespalv.com/product-category/shop/",
+    "name": "Shop",
+    "slug": "shop",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat/33",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_cat=33"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 173,
+    "count": 8,
+    "description": "",
+    "link": "https://castlespalv.com/product-category/skincare/",
+    "name": "Skin Care",
+    "slug": "skincare",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat/173",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_cat=173"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "count": 0,
+    "description": "",
+    "link": "https://castlespalv.com/product-category/uncategorized/",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "menu_order": 0,
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat/15",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_cat"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_cat"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_cat=15"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

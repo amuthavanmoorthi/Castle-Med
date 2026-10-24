@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1203,
+    "date": "2023-07-18T21:24:11",
+    "date_gmt": "2023-07-18T21:24:11",
+    "guid": {
+      "rendered": "https://castlespalv.com/?post_type=spt_shortcodes&#038;p=1203"
+    },
+    "modified": "2023-07-19T22:44:52",
+    "modified_gmt": "2023-07-19T22:44:52",
+    "slug": "testimonial-1",
+    "status": "publish",
+    "type": "spt_shortcodes",
+    "link": "https://castlespalv.com/spt_shortcodes/testimonial-1/",
+    "title": {
+      "rendered": "Testimonial 1"
+    },
+    "template": "",
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/spt_shortcodes/1203",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/spt_shortcodes"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/types/spt_shortcodes"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/media?parent=1203"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

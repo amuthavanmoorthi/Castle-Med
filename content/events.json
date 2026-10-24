@@ -1,0 +1,819 @@
+[
+  {
+    "id": 884,
+    "date": "2017-02-03T15:25:37",
+    "date_gmt": "2017-02-03T15:25:37",
+    "guid": {
+      "rendered": "http://www.nicdarkthemes.com/themes/beauty/wp/demo/beauty-salon/?post_type=events&amp;p=884"
+    },
+    "modified": "2017-02-03T15:25:37",
+    "modified_gmt": "2017-02-03T15:25:37",
+    "slug": "body-scrub",
+    "status": "publish",
+    "type": "events",
+    "link": "https://castlespalv.com/events/body-scrub/",
+    "title": {
+      "rendered": "BOOK NOW"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "menu_order": 0,
+    "template": "",
+    "events_category": [
+      26
+    ],
+    "class_list": [
+      "post-884",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_category-events"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events/884",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/types/events"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/media?parent=884"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_category",
+          "embeddable": true,
+          "href": "https://castlespalv.com/wp-json/wp/v2/events_category?post=884"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 883,
+    "date": "2017-02-03T15:24:37",
+    "date_gmt": "2017-02-03T15:24:37",
+    "guid": {
+      "rendered": "http://www.nicdarkthemes.com/themes/beauty/wp/demo/beauty-salon/?post_type=events&amp;p=883"
+    },
+    "modified": "2017-02-03T15:24:37",
+    "modified_gmt": "2017-02-03T15:24:37",
+    "slug": "revitalizing",
+    "status": "publish",
+    "type": "events",
+    "link": "https://castlespalv.com/events/revitalizing/",
+    "title": {
+      "rendered": "BOOK NOW"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "menu_order": 0,
+    "template": "",
+    "events_category": [
+      26
+    ],
+    "class_list": [
+      "post-883",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_category-events"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events/883",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/types/events"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/media?parent=883"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_category",
+          "embeddable": true,
+          "href": "https://castlespalv.com/wp-json/wp/v2/events_category?post=883"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 882,
+    "date": "2017-02-03T15:23:37",
+    "date_gmt": "2017-02-03T15:23:37",
+    "guid": {
+      "rendered": "http://www.nicdarkthemes.com/themes/beauty/wp/demo/beauty-salon/?post_type=events&amp;p=882"
+    },
+    "modified": "2017-02-03T15:23:37",
+    "modified_gmt": "2017-02-03T15:23:37",
+    "slug": "exfoliating",
+    "status": "publish",
+    "type": "events",
+    "link": "https://castlespalv.com/events/exfoliating/",
+    "title": {
+      "rendered": "BOOK NOW"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "menu_order": 0,
+    "template": "",
+    "events_category": [
+      26
+    ],
+    "class_list": [
+      "post-882",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_category-events"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events/882",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/types/events"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/media?parent=882"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_category",
+          "embeddable": true,
+          "href": "https://castlespalv.com/wp-json/wp/v2/events_category?post=882"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 881,
+    "date": "2017-02-03T15:22:34",
+    "date_gmt": "2017-02-03T15:22:34",
+    "guid": {
+      "rendered": "http://www.nicdarkthemes.com/themes/beauty/wp/demo/beauty-salon/?post_type=events&amp;p=881"
+    },
+    "modified": "2017-02-03T15:22:34",
+    "modified_gmt": "2017-02-03T15:22:34",
+    "slug": "pedicure",
+    "status": "publish",
+    "type": "events",
+    "link": "https://castlespalv.com/events/pedicure/",
+    "title": {
+      "rendered": "BOOK NOW"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "menu_order": 0,
+    "template": "",
+    "events_category": [
+      26
+    ],
+    "class_list": [
+      "post-881",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_category-events"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events/881",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/types/events"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/media?parent=881"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_category",
+          "embeddable": true,
+          "href": "https://castlespalv.com/wp-json/wp/v2/events_category?post=881"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 879,
+    "date": "2017-02-03T14:49:36",
+    "date_gmt": "2017-02-03T14:49:36",
+    "guid": {
+      "rendered": "http://www.nicdarkthemes.com/themes/beauty/wp/demo/beauty-salon/?post_type=events&amp;p=879"
+    },
+    "modified": "2017-02-03T14:49:36",
+    "modified_gmt": "2017-02-03T14:49:36",
+    "slug": "manicure",
+    "status": "publish",
+    "type": "events",
+    "link": "https://castlespalv.com/events/manicure/",
+    "title": {
+      "rendered": "BOOK NOW"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "menu_order": 0,
+    "template": "",
+    "events_category": [
+      26
+    ],
+    "class_list": [
+      "post-879",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_category-events"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events/879",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/types/events"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/media?parent=879"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_category",
+          "embeddable": true,
+          "href": "https://castlespalv.com/wp-json/wp/v2/events_category?post=879"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 877,
+    "date": "2017-02-03T14:49:06",
+    "date_gmt": "2017-02-03T14:49:06",
+    "guid": {
+      "rendered": "http://www.nicdarkthemes.com/themes/beauty/wp/demo/beauty-salon/?post_type=events&amp;p=877"
+    },
+    "modified": "2017-02-03T14:49:06",
+    "modified_gmt": "2017-02-03T14:49:06",
+    "slug": "sauna",
+    "status": "publish",
+    "type": "events",
+    "link": "https://castlespalv.com/events/sauna/",
+    "title": {
+      "rendered": "BOOK NOW"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "menu_order": 0,
+    "template": "",
+    "events_category": [
+      26
+    ],
+    "class_list": [
+      "post-877",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_category-events"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events/877",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/types/events"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/media?parent=877"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_category",
+          "embeddable": true,
+          "href": "https://castlespalv.com/wp-json/wp/v2/events_category?post=877"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 876,
+    "date": "2017-02-03T14:48:53",
+    "date_gmt": "2017-02-03T14:48:53",
+    "guid": {
+      "rendered": "http://www.nicdarkthemes.com/themes/beauty/wp/demo/beauty-salon/?post_type=events&amp;p=876"
+    },
+    "modified": "2017-02-03T14:48:53",
+    "modified_gmt": "2017-02-03T14:48:53",
+    "slug": "relax-massage",
+    "status": "publish",
+    "type": "events",
+    "link": "https://castlespalv.com/events/relax-massage/",
+    "title": {
+      "rendered": "BOOK NOW"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "menu_order": 0,
+    "template": "",
+    "events_category": [
+      26
+    ],
+    "class_list": [
+      "post-876",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_category-events"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events/876",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/types/events"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/media?parent=876"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_category",
+          "embeddable": true,
+          "href": "https://castlespalv.com/wp-json/wp/v2/events_category?post=876"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 875,
+    "date": "2017-02-03T14:48:43",
+    "date_gmt": "2017-02-03T14:48:43",
+    "guid": {
+      "rendered": "http://www.nicdarkthemes.com/themes/beauty/wp/demo/beauty-salon/?post_type=events&amp;p=875"
+    },
+    "modified": "2017-02-03T14:48:43",
+    "modified_gmt": "2017-02-03T14:48:43",
+    "slug": "salt-bath",
+    "status": "publish",
+    "type": "events",
+    "link": "https://castlespalv.com/events/salt-bath/",
+    "title": {
+      "rendered": "BOOK NOW"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "menu_order": 0,
+    "template": "",
+    "events_category": [
+      26
+    ],
+    "class_list": [
+      "post-875",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_category-events"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events/875",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/types/events"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/media?parent=875"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_category",
+          "embeddable": true,
+          "href": "https://castlespalv.com/wp-json/wp/v2/events_category?post=875"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 874,
+    "date": "2017-02-03T14:48:15",
+    "date_gmt": "2017-02-03T14:48:15",
+    "guid": {
+      "rendered": "http://www.nicdarkthemes.com/themes/beauty/wp/demo/beauty-salon/?post_type=events&amp;p=874"
+    },
+    "modified": "2017-02-03T14:48:15",
+    "modified_gmt": "2017-02-03T14:48:15",
+    "slug": "sport-massage",
+    "status": "publish",
+    "type": "events",
+    "link": "https://castlespalv.com/events/sport-massage/",
+    "title": {
+      "rendered": "BOOK NOW"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "menu_order": 0,
+    "template": "",
+    "events_category": [
+      26
+    ],
+    "class_list": [
+      "post-874",
+      "events",
+      "type-events",
+      "status-publish",
+      "hentry",
+      "events_category-events"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events/874",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/types/events"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/media?parent=874"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_category",
+          "embeddable": true,
+          "href": "https://castlespalv.com/wp-json/wp/v2/events_category?post=874"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 852,
+    "date": "2017-02-03T13:55:17",
+    "date_gmt": "2017-02-03T13:55:17",
+    "guid": {
+      "rendered": "http://www.nicdarkthemes.com/themes/beauty/wp/demo/beauty-salon/?post_type=events&amp;p=852"
+    },
+    "modified": "2017-02-03T13:55:17",
+    "modified_gmt": "2017-02-03T13:55:17",
+    "slug": "skin-care",
+    "status": "publish",
+    "type": "events",
+    "link": "https://castlespalv.com/events/skin-care/",
+    "title": {
+      "rendered": "BOOK NOW"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 127,
+    "menu_order": 0,
+    "template": "",
+    "events_category": [
+      26
+    ],
+    "class_list": [
+      "post-852",
+      "events",
+      "type-events",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "events_category-events"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events/852",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/types/events"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://castlespalv.com/wp-json/wp/v2/media/127"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/media?parent=852"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "events_category",
+          "embeddable": true,
+          "href": "https://castlespalv.com/wp-json/wp/v2/events_category?post=852"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

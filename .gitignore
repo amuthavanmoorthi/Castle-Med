@@ -1,0 +1,18 @@
+# raw crawl of the old site (64 MB) - regenerate with tools/crawl.py
+/media/
+
+# backend
+backend/.venv/
+backend/.env
+backend/*.db
+backend/*.db-*
+__pycache__/
+.pytest_cache/
+
+# frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+.DS_Store

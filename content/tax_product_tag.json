@@ -1,0 +1,317 @@
+[
+  {
+    "id": 25,
+    "count": 6,
+    "description": "",
+    "link": "https://castlespalv.com/product-tag/beauty/",
+    "name": "Beauty",
+    "slug": "beauty",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag/25",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_tag=25"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "count": 0,
+    "description": "",
+    "link": "https://castlespalv.com/product-tag/manicure/",
+    "name": "Manicure",
+    "slug": "manicure",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag/27",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_tag=27"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "count": 0,
+    "description": "",
+    "link": "https://castlespalv.com/product-tag/massage/",
+    "name": "Massage",
+    "slug": "massage",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag/28",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_tag=28"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "count": 0,
+    "description": "",
+    "link": "https://castlespalv.com/product-tag/nail/",
+    "name": "Nail",
+    "slug": "nail",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag/29",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_tag=29"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "count": 0,
+    "description": "",
+    "link": "https://castlespalv.com/product-tag/relax/",
+    "name": "Relax",
+    "slug": "relax",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag/30",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_tag=30"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "count": 0,
+    "description": "",
+    "link": "https://castlespalv.com/product-tag/spa/",
+    "name": "Spa",
+    "slug": "spa",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag/31",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_tag=31"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "count": 0,
+    "description": "",
+    "link": "https://castlespalv.com/product-tag/wellness/",
+    "name": "Wellness",
+    "slug": "wellness",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag/32",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/product?product_tag=32"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

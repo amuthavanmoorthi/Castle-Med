@@ -1,0 +1,48 @@
+[
+  {
+    "id": 26,
+    "count": 10,
+    "description": "",
+    "link": "https://castlespalv.com/events_category/events/",
+    "name": "Events",
+    "slug": "events",
+    "taxonomy": "events_category",
+    "parent": 0,
+    "meta": [],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events_category/26",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events_category"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/taxonomies/events_category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://castlespalv.com/wp-json/wp/v2/events?events_category=26"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

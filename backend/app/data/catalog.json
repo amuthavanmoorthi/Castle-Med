@@ -1,0 +1,566 @@
+{
+  "business": {
+    "name": "Castle Spa & Massage",
+    "phone": "702-565-5980",
+    "phone_e164": "+17025655980",
+    "email": "castlespa5980@gmail.com",
+    "street": "5980 Spring Mountain Road #3",
+    "city": "Las Vegas",
+    "region": "NV",
+    "postal_code": "89146",
+    "neighbourhood": "Las Vegas Chinatown",
+    "hours_note": "Open 7 days a week, by appointment only.",
+    "lat": 36.1256,
+    "lon": -115.2234
+  },
+  "services": [
+    {
+      "slug": "aromatherapy",
+      "category": "massage",
+      "name": "Aromatherapy Massage",
+      "tab": "Aromatherapy",
+      "tagline": "Elevate your senses with Aromatherapy Massage",
+      "benefits": [
+        "Relaxation and stress relief",
+        "Enhanced mood",
+        "Improved sleep quality",
+        "Soothing aches and pains"
+      ],
+      "description": "Experience the indulgence of Aromatherapy Massage, where carefully selected essential oils enhance the therapeutic benefits of your treatment. Our skilled therapists tailor each session to your needs, blending natural essences for a personalized aroma that soothes both mind and body. Inhale the calming scents and feel the tension melt away as your senses are revitalized.",
+      "options": [
+        {
+          "minutes": 60,
+          "price_cents": 12000
+        },
+        {
+          "minutes": 90,
+          "price_cents": 18000
+        }
+      ],
+      "units": 1,
+      "image": "aromatherapy",
+      "faqs": [
+        {
+          "q": "Can I choose the essential oils used during my Aromatherapy Massage?",
+          "a": "Absolutely! Our therapists will discuss your preferences and any specific concerns you may have before the massage. Based on this information, they will create a custom blend of essential oils tailored to your needs."
+        },
+        {
+          "q": "Are essential oils safe for everyone?",
+          "a": "While essential oils are generally safe for most people, some individuals may have sensitivities or allergies to specific oils. Please inform your therapist of any known allergies or health conditions before the session."
+        }
+      ]
+    },
+    {
+      "slug": "castle",
+      "category": "massage",
+      "name": "Castle Massage",
+      "tab": "Castle",
+      "tagline": "Indulge in regal luxury with our signature Castle Massage",
+      "benefits": [
+        "Personalized aromatherapy",
+        "Royal ambiance",
+        "Customized massage techniques",
+        "Ultimate relaxation"
+      ],
+      "description": "Indulge in our signature Castle Massage for the ultimate luxury and relaxation fit for royalty. Book now for a regal journey of pampering unlike any other.",
+      "options": [
+        {
+          "minutes": 60,
+          "price_cents": 15000
+        },
+        {
+          "minutes": 90,
+          "price_cents": 20000
+        }
+      ],
+      "units": 1,
+      "image": "castle",
+      "faqs": [
+        {
+          "q": "What makes Castle Massage different from other massages?",
+          "a": "Castle Massage is an exclusive and lavish service that incorporates personalized aromatherapy, regal ambiance, and customized massage techniques to provide you with an unparalleled experience of luxury and relaxation."
+        },
+        {
+          "q": "Can I request specific areas of focus during the Castle Massage?",
+          "a": "Absolutely! Our therapists are attentive to your needs and will tailor the massage to focus on specific areas of tension or discomfort, ensuring a deeply satisfying and beneficial session."
+        }
+      ]
+    },
+    {
+      "slug": "couples",
+      "category": "massage",
+      "name": "Couples Massage",
+      "tab": "Couples",
+      "tagline": "Share a blissful retreat with Couples Massage",
+      "benefits": [
+        "Quality time together",
+        "Relaxation and stress relief",
+        "Enhanced intimacy",
+        "Perfect for special occasions"
+      ],
+      "description": "Experience tranquility together with Couples Massage at Castle Spa & Massage. Our personalized sessions create unforgettable memories for you and your companion. Book now for a harmonious escape in our blissful sanctuary.",
+      "options": [
+        {
+          "minutes": 60,
+          "price_cents": 25000
+        },
+        {
+          "minutes": 90,
+          "price_cents": 38000
+        }
+      ],
+      "price_note": "Price is for two guests.",
+      "units": 2,
+      "image": "couples",
+      "faqs": [
+        {
+          "q": "Can we choose different types of massages for our Couples Massage?",
+          "a": "Absolutely! We offer a range of massage services, and you and your partner are welcome to select different types of massages that cater to your individual preferences and needs."
+        },
+        {
+          "q": "What should we wear during the Couples Massage?",
+          "a": "For your comfort, you can undress to your level of preference. You will be discreetly draped with a sheet or towel throughout the session, ensuring your privacy."
+        }
+      ]
+    },
+    {
+      "slug": "deep-tissue",
+      "category": "massage",
+      "name": "Deep Tissue Massage",
+      "tab": "Deep Tissue",
+      "tagline": "Restore your body's balance with Deep Tissue Massage",
+      "benefits": [
+        "Pain relief",
+        "Muscle rehabilitation",
+        "Improved flexibility",
+        "Stress reduction"
+      ],
+      "description": "Deep Tissue Massage targets chronic tension with firm, deliberate strokes to alleviate pain and stiffness. Ideal for those with muscle issues, our therapists tailor each session for your comfort and safety.",
+      "options": [
+        {
+          "minutes": 30,
+          "price_cents": 8000
+        },
+        {
+          "minutes": 60,
+          "price_cents": 12000
+        },
+        {
+          "minutes": 90,
+          "price_cents": 18000
+        }
+      ],
+      "units": 1,
+      "image": "deep-tissue",
+      "faqs": [
+        {
+          "q": "Will I be sore after a Deep Tissue Massage session?",
+          "a": "It is normal to experience mild soreness after a Deep Tissue Massage, especially if your muscles were particularly tight or if you had deep knots worked on. This soreness typically subsides within a day or two, leaving you with improved mobility and reduced pain."
+        },
+        {
+          "q": "Can Deep Tissue Massage help with sports-related injuries?",
+          "a": "Yes, Deep Tissue Massage can be beneficial in addressing sports-related injuries, especially those involving muscles and connective tissues. It can aid in rehabilitation and muscle recovery."
+        }
+      ]
+    },
+    {
+      "slug": "shiatsu",
+      "category": "massage",
+      "name": "Shiatsu Massage",
+      "tab": "Shiatsu",
+      "tagline": "Discover balance and harmony with Shiatsu Massage",
+      "benefits": [
+        "Pain management",
+        "Stress relief",
+        "Improved circulation",
+        "Enhanced energy levels"
+      ],
+      "description": "Shiatsu, meaning 'finger pressure' in Japanese, is a holistic massage rooted in traditional Chinese medicine. It aims to rebalance Qi flow along meridian pathways, promoting natural healing and relieving tension. Stimulating pressure points reduces stress, leaving you revitalized.",
+      "options": [
+        {
+          "minutes": 60,
+          "price_cents": 14000
+        },
+        {
+          "minutes": 90,
+          "price_cents": 18000
+        }
+      ],
+      "units": 1,
+      "image": "shiatsu",
+      "faqs": [
+        {
+          "q": "Is Shiatsu Massage painful?",
+          "a": "No, Shiatsu massage should not be painful. While some pressure is applied to the body's meridian points, it should not cause discomfort. Instead, you should experience a pleasant sensation of release and relaxation during the massage."
+        },
+        {
+          "q": "Can anyone receive Shiatsu Massage?",
+          "a": "Shiatsu massage is generally safe for most individuals. However, if you have specific health concerns or medical conditions, please inform your therapist before the session so the treatment can be tailored to your needs."
+        }
+      ]
+    },
+    {
+      "slug": "pregnancy",
+      "category": "massage",
+      "name": "Pregnancy Massage",
+      "tab": "Pregnancy",
+      "tagline": "Nurturing care for expecting mothers",
+      "benefits": [
+        "Relief from aches and pains",
+        "Reduced swelling",
+        "Improved sleep",
+        "Stress reduction"
+      ],
+      "description": "Pregnancy Massage, also known as Prenatal Massage, is tailored for expectant mothers to address physical and emotional changes during pregnancy. Our skilled therapists use gentle techniques to ease discomforts like back pain and muscle tension, ensuring safety and comfort for both mother and baby with supportive cushions.",
+      "options": [
+        {
+          "minutes": 60,
+          "price_cents": 14000
+        },
+        {
+          "minutes": 90,
+          "price_cents": 18000
+        }
+      ],
+      "units": 1,
+      "image": "pregnancy",
+      "faqs": [
+        {
+          "q": "When is it safe to get a Pregnancy Massage?",
+          "a": "Pregnancy Massage is generally safe after the first trimester. However, it's always best to consult with your healthcare provider before scheduling a massage, especially if you have any medical conditions or a high-risk pregnancy."
+        },
+        {
+          "q": "Are there any contraindications for Pregnancy Massage?",
+          "a": "While Pregnancy Massage is generally safe for most expectant mothers, there are some contraindications. Please inform your therapist about any pregnancy complications or medical concerns to ensure a safe and customized experience."
+        }
+      ]
+    },
+    {
+      "slug": "slimming",
+      "category": "massage",
+      "name": "Slimming Massage",
+      "tab": "Slimming",
+      "tagline": "Achieve your wellness goals with Slimming Massage",
+      "benefits": [
+        "Cellulite reduction",
+        "Detoxification",
+        "Improved circulation",
+        "Relaxation and stress relief"
+      ],
+      "description": "Slimming Massage, also called Lymphatic Drainage or Cellulite Massage, stimulates the lymphatic system to reduce fluid retention and toxins. With gentle strokes, it diminishes cellulite, enhances circulation, and promotes a firmer, toned look. Experience relaxation and wellness benefits alongside slimming effects.",
+      "options": [
+        {
+          "minutes": 60,
+          "price_cents": 20000
+        },
+        {
+          "minutes": 90,
+          "price_cents": 25000
+        }
+      ],
+      "units": 1,
+      "image": "slimming",
+      "faqs": [
+        {
+          "q": "Is Slimming Massage a weight-loss method?",
+          "a": "While Slimming Massage can aid in cellulite reduction and support weight management efforts, it is not a weight-loss method on its own. It can complement a healthy diet, regular exercise, and lifestyle changes to help you achieve your fitness goals."
+        }
+      ]
+    },
+    {
+      "slug": "sports-thai",
+      "category": "massage",
+      "name": "Sports/Thai Massage",
+      "tab": "Sports/Thai",
+      "tagline": "Elevate your performance with Sports Thai Massage",
+      "benefits": [
+        "Enhanced flexibility",
+        "Improved circulation",
+        "Injury prevention",
+        "Stress relief"
+      ],
+      "description": "Sports Thai Massage blends Thai massage with sports techniques to enhance athletic performance and prevent injuries. Originating from Thailand, Thai massage is an ancient healing practice that involves a series of assisted stretches, joint mobilizations, and acupressure techniques. Our skilled therapists use varying pressure and stretching movements to improve flexibility, relieve tension, and promote toxin release, tailored to athletes' needs.",
+      "options": [
+        {
+          "minutes": 60,
+          "price_cents": 15000
+        },
+        {
+          "minutes": 90,
+          "price_cents": 20000
+        }
+      ],
+      "units": 1,
+      "image": "sports-thai",
+      "faqs": [
+        {
+          "q": "Is Sports Thai Massage suitable for non-athletes?",
+          "a": "Absolutely! While Sports Thai Massage is tailored to athletes, anyone can benefit from its therapeutic effects. It is an excellent choice for individuals seeking relief from muscle tension, improved flexibility, and overall relaxation."
+        },
+        {
+          "q": "Will I need to undress during the massage?",
+          "a": "Sports Thai Massage is typically performed with the client fully clothed. We recommend wearing loose, comfortable clothing that allows for ease of movement during the stretching exercises."
+        }
+      ]
+    },
+    {
+      "slug": "swedish",
+      "category": "massage",
+      "name": "Swedish Massage",
+      "tab": "Swedish",
+      "tagline": "Rejuvenate your body and soul with Swedish Massage",
+      "benefits": [
+        "Relaxation",
+        "Improved circulation",
+        "Muscle tension relief",
+        "Enhanced flexibility"
+      ],
+      "description": "Swedish Massage originated in Sweden and is known for its relaxing techniques worldwide. Our therapists customize each session, using gentle strokes and pressure to soothe muscles and promote well-being.",
+      "options": [
+        {
+          "minutes": 45,
+          "price_cents": 8000
+        },
+        {
+          "minutes": 60,
+          "price_cents": 10000
+        },
+        {
+          "minutes": 90,
+          "price_cents": 16000
+        }
+      ],
+      "units": 1,
+      "image": "swedish",
+      "faqs": [
+        {
+          "q": "Is Swedish Massage suitable for everyone?",
+          "a": "Yes, Swedish Massage is generally safe and suitable for most individuals. However, if you have specific health concerns or medical conditions, please inform your therapist before the session so the massage can be adapted to your needs."
+        },
+        {
+          "q": "What should I expect during a Swedish Massage session?",
+          "a": "During your Swedish Massage, you will lie on a comfortable massage table, covered with a soft sheet. Your therapist will use various techniques to work on different areas of your body, ensuring a comprehensive and relaxing experience."
+        }
+      ]
+    },
+    {
+      "slug": "cbd",
+      "category": "massage",
+      "name": "CBD Massage",
+      "tab": "CBD",
+      "tagline": "Experience holistic wellness with CBD Massage",
+      "benefits": [
+        "Reduced pain",
+        "Improved circulation",
+        "Reduced anxiety",
+        "Stress relief",
+        "Improved quality of sleep"
+      ],
+      "description": "Experience the powerful combination of CBD and massage for a host of physical, mental, and emotional benefits. CBD aids in reducing inflammation and pain while improving skin health, complementing the muscle recovery and tension relief benefits of massage. Together, they offer a holistic approach to wellness, reducing stress, anxiety, and improving sleep quality.",
+      "options": [
+        {
+          "minutes": 60,
+          "price_cents": 15000
+        },
+        {
+          "minutes": 90,
+          "price_cents": 20000
+        }
+      ],
+      "addons": [
+        {
+          "name": "Additional CBD oil",
+          "price_cents": 2000
+        }
+      ],
+      "units": 1,
+      "image": "cbd",
+      "faqs": [
+        {
+          "q": "Is CBD safe?",
+          "a": "Before incorporating CBD into your routine, consult with your doctor, especially if you take medications. While CBD is generally safe, it's essential to consider potential interactions. Topical use, like in a CBD massage, typically carries fewer side effects compared to ingestion."
+        },
+        {
+          "q": "Who is a good candidate for a CBD massage?",
+          "a": "We recommend CBD massages to anyone experiencing chronic pain and soreness. The anti-inflammatory properties of CBD are well suited to lingering, difficult-to-treat pain. Many clients experience relief from chronic discomfort by maintaining a regular schedule of CBD massage appointments."
+        }
+      ]
+    },
+    {
+      "slug": "detox",
+      "category": "body",
+      "name": "Detox Treatment",
+      "tab": "Detox",
+      "tagline": "Renew and revitalize with a Detox Treatment",
+      "benefits": [
+        "Toxin removal",
+        "Reduced fluid retention",
+        "Improved circulation",
+        "Stress relief"
+      ],
+      "description": "Detox Massage stimulates the lymphatic system to eliminate toxins, using gentle strokes to encourage fluid removal. Targeted techniques release muscle tension, enhancing relaxation and detoxification.",
+      "options": [
+        {
+          "minutes": 60,
+          "price_cents": 25000
+        }
+      ],
+      "units": 1,
+      "image": "detox",
+      "faqs": [
+        {
+          "q": "How is Detox Massage different from a regular massage?",
+          "a": "Detox Massage focuses on stimulating the lymphatic system and promoting detoxification, while regular massages often aim to address muscle tension and promote relaxation. Detox Massage uses specific techniques to support the body's natural detox processes."
+        },
+        {
+          "q": "How often should I get Detox Massage?",
+          "a": "The frequency of Detox Massage sessions can vary depending on your individual needs and wellness goals. For optimal results, a series of sessions may be recommended initially, followed by maintenance sessions as desired."
+        }
+      ]
+    },
+    {
+      "slug": "hot-spring",
+      "category": "body",
+      "name": "Hot Spring",
+      "tab": "Hot Spring",
+      "tagline": "Embrace the healing serenity of hot spring bathing",
+      "benefits": [
+        "Toxin removal",
+        "Reduced fluid retention",
+        "Improved circulation",
+        "Stress relief"
+      ],
+      "description": "Experience the healing benefits of Hot Spring Bathing at Castle Spa & Massage. Our tranquil hot spring mimics natural mineral-rich waters, promoting relaxation and offering therapeutic benefits like muscle relaxation and improved circulation.",
+      "options": [
+        {
+          "minutes": 45,
+          "price_cents": 8000
+        }
+      ],
+      "units": 1,
+      "image": "hot-spring",
+      "faqs": [
+        {
+          "q": "How long should I spend in the hot spring?",
+          "a": "The duration of your hot spring bathing experience is entirely up to you and your comfort level. We recommend starting with shorter sessions and gradually increasing the time based on how you feel."
+        },
+        {
+          "q": "Can I combine hot spring bathing with other spa services?",
+          "a": "Absolutely! Hot spring bathing pairs beautifully with other spa services, such as massages, to create a comprehensive and indulgent spa experience."
+        }
+      ]
+    },
+    {
+      "slug": "infrared-light",
+      "category": "body",
+      "name": "Infrared Light Therapy",
+      "tab": "Infrared Light",
+      "tagline": "Healing radiance with Infrared Light Therapy",
+      "benefits": [
+        "Detoxification",
+        "Pain relief",
+        "Stress reduction",
+        "Improved skin health"
+      ],
+      "description": "Rediscover rejuvenation with Infrared Light Therapy. Our advanced sauna offers gentle heat waves that promote detoxification, pain relief, and relaxation, allowing you to unwind and embrace the healing benefits of infrared light.",
+      "options": [
+        {
+          "minutes": 15,
+          "price_cents": 3000
+        },
+        {
+          "minutes": 30,
+          "price_cents": 6000
+        }
+      ],
+      "units": 1,
+      "image": "infrared-light",
+      "faqs": [
+        {
+          "q": "Is Infrared Light Therapy safe?",
+          "a": "Yes, Infrared Light Therapy is generally safe when used as directed. Our infrared sauna is designed with safety features and is carefully monitored during the session to ensure a comfortable and secure experience."
+        },
+        {
+          "q": "How long does an Infrared Light Therapy session last?",
+          "a": "Sessions are 15 or 30 minutes. Your therapist can help you choose the length that suits you."
+        }
+      ]
+    },
+    {
+      "slug": "luxe-sand-foam",
+      "category": "body",
+      "name": "Luxe Sand & Foam",
+      "tab": "Luxe Sand & Foam",
+      "tagline": "Indulge in luxury and rejuvenation with Luxe Sand & Foam",
+      "benefits": [
+        "Ultimate nourishment",
+        "Deep relaxation",
+        "Cleansing and rejuvenation",
+        "Aromatic bliss"
+      ],
+      "description": "Luxe Sand & Foam combines luxurious foam treatments with skilled massage techniques. Our therapists use premium ingredients to create a rich foam that envelops you in softness and fragrance. Expertly massaged into your skin, it soothes muscles and nourishes from head to toe.",
+      "options": [
+        {
+          "minutes": 30,
+          "price_cents": 10000
+        },
+        {
+          "minutes": 60,
+          "price_cents": 15000
+        }
+      ],
+      "units": 1,
+      "image": "luxe-sand-foam",
+      "faqs": [
+        {
+          "q": "Is Luxe Sand & Foam safe for all skin types?",
+          "a": "Luxe Sand & Foam is crafted using gentle and nourishing ingredients, making it suitable for most skin types. However, if you have specific skin concerns or allergies, please inform our therapists before the treatment."
+        },
+        {
+          "q": "Can I request specific foam scents?",
+          "a": "Absolutely! Our therapists offer a selection of foam scents for you to choose from, allowing you to personalize your experience."
+        }
+      ]
+    },
+    {
+      "slug": "sand-foam",
+      "category": "body",
+      "name": "Sand & Foam",
+      "tab": "Sand & Foam",
+      "tagline": "Elevate your spa experience with Sand & Foam",
+      "benefits": [
+        "Skin nourishment",
+        "Sensory delight",
+        "Cleansing and exfoliation",
+        "Stress relief"
+      ],
+      "description": "Sand & Foam is a modern twist on traditional foam treatments. Our therapists craft a luxurious, aromatic foam using premium ingredients. As you stand on a specialized mat, the foam is applied to your body, then expertly massaged in, offering a rejuvenating experience that soothes muscles and nourishes skin.",
+      "options": [
+        {
+          "minutes": 15,
+          "price_cents": 6000
+        },
+        {
+          "minutes": 30,
+          "price_cents": 8000
+        },
+        {
+          "minutes": 60,
+          "price_cents": 12000
+        }
+      ],
+      "units": 1,
+      "image": "sand-foam",
+      "faqs": [
+        {
+          "q": "Is Sand & Foam suitable for all skin types?",
+          "a": "Sand & Foam is generally suitable for most skin types. However, if you have specific skin concerns or allergies, please inform our therapists before the treatment."
+        },
+        {
+          "q": "What should I wear during the Sand & Foam treatment?",
+          "a": "For your comfort and privacy, we recommend wearing a disposable undergarment or a bathing suit during the treatment."
+        }
+      ]
+    }
+  ]
+}

@@ -59,9 +59,15 @@ def rest_all(route, fields=None):
     return out
 
 
+# API keys the old theme baked into page HTML (e.g. a Mapbox token). They are
+# public on the live site, but they have no place in this repository.
+TOKEN_RE = re.compile(r"\b(?:pk|sk)\.eyJ[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+")
+
+
 def save(name, data):
+    text = TOKEN_RE.sub("[REDACTED_TOKEN]", json.dumps(data, ensure_ascii=False, indent=2))
     with open(os.path.join(CONTENT, name), "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        f.write(text)
     print(f"saved content/{name}: {len(data) if hasattr(data, '__len__') else ''}", flush=True)
 
 

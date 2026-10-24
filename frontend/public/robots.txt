@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin
+Disallow: /manage-booking/
+
+Sitemap: https://castlespalv.com/sitemap.xml

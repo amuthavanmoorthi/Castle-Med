@@ -1,0 +1,76 @@
+# Castle Spa & Massage - Apache config for the React build (Bluehost).
+# Upload the contents of frontend/dist/ (this file included) to public_html.
+
+Options -Indexes
+RewriteEngine On
+
+# ---------------------------------------------------------------------------
+# Canonical host: https://castlespalv.com (single hop, no redirect chains).
+# Skipped on localhost so a local Apache can serve the build for testing.
+# ---------------------------------------------------------------------------
+RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1) [NC]
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^ https://%1%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1) [NC]
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# ---------------------------------------------------------------------------
+# Old WordPress URLs -> nearest new page, permanently, so Google transfers
+# their ranking instead of reporting dead links.
+# ---------------------------------------------------------------------------
+RewriteRule ^our-team/?$                                   /about-us/        [R=301,L]
+RewriteRule ^contact-v1/?$                                 /contact/         [R=301,L]
+RewriteRule ^(my-bookings|customer-cabinet)/?$             /manage-booking/  [R=301,L]
+RewriteRule ^(cancel-appointment|appointment-cancellation-confirmation|cancel-payment)/?$ /manage-booking/ [R=301,L]
+RewriteRule ^(thank-you|bookingpress-complete-payment)/?$  /appointment/     [R=301,L]
+RewriteRule ^(checkout|cart|shop|my-account)/?$            /gift-cards/      [R=301,L]
+RewriteRule ^(product|product-category|product-tag)/       /gift-cards/      [R=301,L]
+RewriteRule ^events/(sport-massage|relax-massage)/?$       /massages/        [R=301,L]
+RewriteRule ^events/                                       /body-treatment/  [R=301,L]
+RewriteRule ^career/                                       /about-us/        [R=301,L]
+RewriteRule ^(courses|category|tag|author)/                /                 [R=301,L]
+RewriteRule ^(blog|blog-6|homepage-beauty)/?$              /                 [R=301,L]
+# "Coming soon" page whose slug starts with a Cyrillic letter (2 bytes in UTF-8)
+RewriteRule ^.{1,2}oming-soon/?$                           /                 [R=301,L]
+# the theme's demo blog posts, including their -copy duplicates
+RewriteRule ^(from-better-sleep-to-less-anxiety-six-practices|make-the-most-of-your-time-in-bed-with-these-overnight|having-these-7-things-on-your-bedside-table|this-nail-polish-brand-is-diversifying-the-nail-care|how-to-maintain-healthy-hair-10-easy-tips)(-copy[0-9]*|-[0-9]+)?/?$ / [R=301,L]
+RewriteRule ^(wp-sitemap.*\.xml|sitemap_index\.xml)$       /sitemap.xml      [R=301,L]
+
+# WordPress endpoints bots keep probing: answer "gone" instead of the app shell
+RewriteRule ^(wp-admin|wp-includes|wp-content|wp-json)(/|$) - [G,L]
+RewriteRule ^(wp-login\.php|xmlrpc\.php|readme\.html|license\.txt|feed/?)$ - [G,L]
+
+# ---------------------------------------------------------------------------
+# Single-page app: every other path that isn't a real file is a React route.
+# ---------------------------------------------------------------------------
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ /index.html [L]
+
+# ---------------------------------------------------------------------------
+# Caching and security headers
+# ---------------------------------------------------------------------------
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  # hashed build files never change; media is versioned by hand, so a month
+  <FilesMatch "\.(js|css)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  <FilesMatch "\.(webp|png|jpg|ico|mp4|woff2)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+  <FilesMatch "(\.html|^)$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml text/xml
+</IfModule>
+
+AddType image/webp .webp
+AddType application/manifest+json .webmanifest

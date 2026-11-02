@@ -37,6 +37,8 @@ capacity (a couples massage uses 2), 2-hour minimum notice, 60-day horizon, and 
 
 ## Run locally
 
+Step-by-step guide with troubleshooting: [RUN_LOCALLY.md](RUN_LOCALLY.md).
+
 ```bash
 # API  ->  http://127.0.0.1:8000  (docs at /api/docs)
 cd backend
